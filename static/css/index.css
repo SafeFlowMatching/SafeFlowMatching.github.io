@@ -200,3 +200,7 @@ body {
 .dropdown-item {
     white-space: pre-wrap;
 }  
+
+html {
+    scroll-behavior: smooth;
+  }
